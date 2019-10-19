@@ -15,15 +15,13 @@ npm run serve
 npm run build
 ```
 
-### Run your tests
+
+## antv-g6工作流
+我用的是2.20版本
+参考链接：http://antv.alipay.com/zh-cn/g6/2.x/demo/flow/work-flow.html
+
+下载插件
 ```
-npm run test
+npm install @antv/g6@2.2.0
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
